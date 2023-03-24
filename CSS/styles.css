@@ -1,0 +1,171 @@
+.top-container {
+    background-color: #EAF6F6;
+    height: 20%;
+    width: auto;
+}
+
+.cloud-top {
+    margin-top: 20px;
+    margin-left: 50%;
+}
+
+.cloud-bottom {
+    height: 20%;
+    margin-bottom: 380px;
+    width: auto;
+}
+
+.mountain {
+    margin-right: 10%;
+}
+
+.middle-container {
+    background-color: white;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: Montserrat;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.line {
+    border-style: dotted;
+    border-top: 1px;
+    border-width: 10px;
+    color: #EAF6F6;
+    width: 40px;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.sape {
+    margin: auto 60px auto 60px;
+}
+
+.donku {
+    margin-top: 30px;
+    width: 20%;
+}
+
+.code {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.donki {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.web {
+    text-decoration: underline;
+}
+
+.top {
+    left: 210px;
+    position: relative;
+    top: 20px;
+}
+
+.button {
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+
+  .button:hover {
+    background-color: #11999E;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+  }
+
+  .button:active {
+    background-color: #11999E;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 120px;
+}
+
+.linkden {
+    color: #11999E;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 5px;
+    
+
+}
+
+.yt {
+    color: #11999E;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    margin-right: 15px;
+    
+  
+}
+
+.insta{
+    color: #11999E;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+ 
+
+}
+
+.rights {
+    color: white;
+    font-size: small;
+    position: relative;
+    margin-top: 1px;
+    
+}
+
+a:hover {
+    color: white;
+}
